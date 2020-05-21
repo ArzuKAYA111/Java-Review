@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/beyha/eclipse-workspace/All JAR &amp; Installation Folders/xmlbeans-3.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
